@@ -1,0 +1,1 @@
+*{outline:none}html,body{margin:0;padding:0;font-family:Dongle,sans-serif}.btn{border-radius:4px;min-width:36px;min-height:36px;background-color:#aa02aa;color:#fff;display:flex;align-items:center;justify-content:center;border:none;cursor:pointer}.btn:hover:not(.btn--disabled){opacity:.7}.btn--disabled{background-color:#dcdcdc;cursor:default}

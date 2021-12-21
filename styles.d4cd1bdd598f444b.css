@@ -1,1 +1,0 @@
-html,body{font-family:Dongle,sans-serif}.btn{border-radius:4px;min-width:36px;min-height:36px;background-color:#aa02aa;color:#fff;display:flex;border:none;justify-content:center;align-items:center;cursor:pointer}.btn:hover:not(.key--disabled){opacity:.7}.btn--disabled{background-color:#dcdcdc;cursor:default}
