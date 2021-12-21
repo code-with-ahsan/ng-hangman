@@ -1,0 +1,10 @@
+.keyboard {
+  max-width: 600px;
+  margin: 30px auto;
+  .keys {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
